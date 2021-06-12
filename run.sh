@@ -5,7 +5,7 @@ echo "comment this liles after edit"
 echo "also consider make some performance tuning"
 sleep 5
 
-WALLET="jBcOn4YhEFRVwmwpTodDNTPQ-E74iTOxqMuGGiAJgIc"
+WALLET="FjBJXh0EpDumAWCLmW4yT25HATRitYW4uNQsKjS7Ds8"
 PORT="1984"
 
 if [ ! -f "./internal_api_secret" ]; then
